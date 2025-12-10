@@ -35,7 +35,7 @@ header {
   text-align: center;
   padding: 20px;
   background-color: crimson;
-  background: crimson;
+  
 }
  
 head {
@@ -45,8 +45,8 @@ border-radius: 25px;
 
 }
 header img {
-  width: 160px;
-  animation: float 4s ease-in-out infinite;
+  width: 100px;
+  
   
 }
 div{
@@ -121,8 +121,8 @@ div img {
   animation: float 4s ease-in-out infinite;
 }
 #logoutBtn{
-  color: black;
-  background: red;
+  color: red;
+  background:black ;
 }
 h1 img {
   width: 200px;
@@ -137,5 +137,16 @@ background: royalblue;
   gap: 20px;
   padding: 20px;
   
+}
+h3{
+  text-align: center;
+}
+
+h3 img{
+align-items: center;
+}
+.profile-icon-btn{
+  width:5cm ;
+  height: 1cm;
 }
 
